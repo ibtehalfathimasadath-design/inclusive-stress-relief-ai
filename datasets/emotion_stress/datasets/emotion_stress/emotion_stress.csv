@@ -1,6 +1,0 @@
-text,emotion,stress_level,intensity
-"I feel exhausted and overwhelmed",anxiety,high,0.85
-"I'm worried about my future",anxiety,medium,0.65
-"I feel calm and relaxed today",calm,low,0.15
-"I feel lonely and ignored",sadness,high,0.80
-"I'm managing things one step at a time",hopeful,low,0.25
