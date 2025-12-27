@@ -1,0 +1,7 @@
+keyword,severity,action
+"can't go on",critical,escalate_to_support
+"self harm",critical,provide_crisis_resources
+"feel hopeless",high,offer_empathy_and_help
+"panic attack",high,guide_breathing_exercise
+"overwhelmed",medium,suggest_coping_strategy
+"anxious",medium,offer_reassurance
