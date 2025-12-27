@@ -1,0 +1,6 @@
+user_input,agent_stage,expected_action
+"I feel stressed",empathy,acknowledge_feelings
+"I can't focus on anything",support,suggest_breathing
+"I feel overwhelmed",support,offer_coping_strategy
+"I am feeling better now",reflection,positive_reinforcement
+"Thank you",closure,encourage_self_care
