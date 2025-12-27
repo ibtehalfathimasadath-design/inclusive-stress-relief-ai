@@ -1,0 +1,7 @@
+stress_level,emotion,response_type,response_text
+high,anxiety,breathing,"Try slow deep breathing for 2 minutes."
+medium,sadness,reassurance,"It's okay to feel this way. You are not alone."
+high,anger,grounding,"Name five things you can see around you."
+medium,stress,journaling,"Write down what is bothering you right now."
+low,neutral,mindfulness,"Take a moment to notice your surroundings."
+high,overwhelm,relaxation,"Stretch your body gently and release tension."
